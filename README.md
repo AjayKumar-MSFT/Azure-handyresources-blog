@@ -1,14 +1,22 @@
 # Azure-handyresources
  Linking all the key Azure resources in one place - A Resource Group
 
-Microsoft Azure is an ever-expanding highly reliable set of cloud services to help your organization meet your business challenges. It is the freedom to build, manage and deploy applications on a massive, global network using your favorite tools and frameworks. Azure has more than 200 services with great end-to-end tools to make you successful: 
-https://azure.microsoft.com/services/
+Microsoft Azure is an ever-expanding highly reliable set of cloud services to help your organization meet your business challenges. It is the freedom to build, manage and deploy applications on a massive, global network using your favorite tools and frameworks. Azure has more than 200 services with great end-to-end tools to make you successful. 
+See, the [list of Azure services offered](https://azure.microsoft.com/services/).
 
-This blog-doc aims to consolidate and link all the essential resources available in Azure in one-place that you could leverage for smoother operational.
+Azure has great pool of information and help avaiable to empower you to achieve more. The objective of this blog is to consolidate and link all the essential resources available in Azure in one-place, to make it simpler to find information and your save time.
+It contains key information related to Azure -Subscription, Resources, Products, Services, Regions, Diagnostics, Logging, Troubleshooting, Community, Support and Help – Linking all in one-place.
 
-Contains key information related to Azure -Subscription, Resources, Products, Services, Regions, Diagnostics, Logging, Troubleshooting, Community, Help – Linking all in one-place.
+This guide aims to serve has a docket linking all the key Azure information that you may interested in one-place (1-stop centre!) has been dividied into 5 sections, jump to the topic you're more interested in: 
 
-# Getting Started #
+1. [Getting Started](#getting-started)
+2. [Pricing and Billing](#pricing-and-billing)
+3. [Tutorials and Samples](tutorials-and-samples)
+4. [Help and Support](help-and-support)
+5. [Optimize and Improve](optimize-and-improve)
+6. [Stay Informed](stay-informed)
+
+# Getting started
 
 **1) Azure Account:** You can create a free account to get started plus you get a $200 credit (*based on the region) which you can spend during the first 30 days:
 
@@ -75,6 +83,12 @@ https://github.com/Azure-Samples
 **14) Azure Videos:** Join the talk and demo from with the engineers who build the services that power Microsoft Azure as they demo capabilities: 
 
 https://azure.microsoft.com/resources/videos/azure-friday/
+
+# Pricing and Billing
+# Tutorials and Samples
+# Help and Support
+# Optimize and Improve
+# Stay Informed
 
 # Support, Troubleshooting and Updates#
 
