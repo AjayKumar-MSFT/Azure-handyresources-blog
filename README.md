@@ -11,11 +11,11 @@ This guide aims to serve has a docket linking all the key Azure information that
 
 1. [Getting Started](#getting-started)
 2. [Pricing and Billing](#pricing-and-billing)
-3. [Tutorials and Samples](tutorials-and-samples)
-4. [Help and Support](help-and-support)
-5. [Optimize and Improve](optimize-and-improve)
-6. [Security and Compliance](security-and-compliance)
-7. [Stay Informed](stay-informed)
+3. [Tutorials and Samples](#tutorials-and-samples)
+4. [Help and Support](#help-and-support)
+5. [Optimize and Improve](#optimize-and-improve)
+6. [Security and Compliance](#security-and-compliance)
+7. [Stay Informed](#stay-informed)
 
 # Getting started
 
