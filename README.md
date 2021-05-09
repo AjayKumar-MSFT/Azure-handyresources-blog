@@ -1,5 +1,5 @@
 # Azure-handyresources
- Linking all the key Azure resources in one place - A Resource Group
+ Linking all the key Azure resources in one place - It's a Resource Group!
 
 Microsoft Azure is an ever-expanding highly reliable set of cloud services to help your organization meet your business challenges. It is the freedom to build, manage and deploy applications on a massive, global network using your favorite tools and frameworks. Azure has more than 200 services with great end-to-end tools to make you successful. 
 See, the [list of Azure services offered](https://azure.microsoft.com/services/).
@@ -85,9 +85,17 @@ https://github.com/Azure-Samples
 https://azure.microsoft.com/resources/videos/azure-friday/
 
 # Pricing and Billing
+
+
 # Tutorials and Samples
+
+
 # Help and Support
+
+
 # Optimize and Improve
+
+
 # Stay Informed
 
 # Support, Troubleshooting and Updates#
