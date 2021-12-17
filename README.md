@@ -149,7 +149,7 @@ See, [create ticket](https://azure.microsoft.com/support/create-ticket/)
 
 **6) Azure Feedback:** Submit your idea in the one of the respective Azure Service forums available or vote up an idea submitted by another Azure customer. All of the feedback you share in these forums will be monitored and reviewed by the Microsoft engineering teams responsible for building Azure.
 
-See, [Azure Uservoice](https://feedback.azure.com/forums/34192–general-feedback)
+See, [Azure Uservoice](https://aka.ms/azurefeedback)
 
 
 # Optimize and Improve
@@ -200,8 +200,6 @@ See, [Service Health](https://docs.microsoft.com/azure/service-health/)
 **3) Azure Resource Health:** Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. It reports on the current and past health of your resources.
 
 Checkout, [Resource Health](https://docs.microsoft.com/azure/service-health/resource-health-overview)
-
-See, [Azure Updates](https://azure.microsoft.com/updates/)
 
 **4) Azure Updates:** Keep a tab on the important updates. Learn about important Azure product updates, roadmap, and announcements.
 
